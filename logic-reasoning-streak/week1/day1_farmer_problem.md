@@ -17,4 +17,4 @@ A farmer has to cross a river with a wolf, a goat, and a cabbage. He has a small
 
 ## Solved By
 * Darshan
-* Ashwath-VH
+* Ashwath
