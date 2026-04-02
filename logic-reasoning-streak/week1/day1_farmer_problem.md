@@ -16,5 +16,5 @@ A farmer has to cross a river with a wolf, a goat, and a cabbage. He has a small
 4. farmer goes back and bring the goat to the other side   
 
 ## Solved By
-* darshan
-*
+* Darshan
+* Ashwath
